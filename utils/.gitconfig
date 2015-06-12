@@ -1,0 +1,7 @@
+[user]
+	email = flenker@informatik.uni-bremen.de
+	name = Tino Flenker
+[push]
+	default = simple
+[gui]
+	encoding = utf-8
