@@ -5,3 +5,5 @@
 	default = simple
 [gui]
 	encoding = utf-8
+[diff]
+	algorithm = minimal
