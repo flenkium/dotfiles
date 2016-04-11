@@ -60,3 +60,6 @@ alias yss='yaourt -Ss'
 alias yrmo='yaourt -Qdt'
 
 alias ssh='ssh -Y'
+
+# configure
+alias configuredbg='CPPFLAGS=-DDEBUG CFLAGS="-g -O0" CXXFLAGS="-g -O0" ./configure'
